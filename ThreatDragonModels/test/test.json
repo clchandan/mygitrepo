@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "description": "test",
+    "title": "test",
+    "owner": "cc"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "cc"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "tt",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "cct"
+  }
+}
